@@ -1,4 +1,5 @@
-# 🚀 DevOps Project 02 — CI/CD Pipeline with Jenkins & Docker
+# 🚀 DevOps Project 02 
+# CI/CD Pipeline with Jenkins & Docker
 
 <div align="center">
 
